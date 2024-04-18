@@ -1,0 +1,2 @@
+Pentru primul task am initalizat un graf neorientat, am aflat cate componente conexe sunt in graf si am aflat costul pentru fiecare arbore minim de acoperire din fiecare zona conexa a grafului.
+Pentr task ul 2 am initializat un graf orientat si am folosit dijkstra pentru a afla drum cu scorul minim de la insula la corabie, daca exista si am verificat existenta drumul de la corabie la insula, afisand un mesaj corespunzator pentru situatiile in care nu exista drumul de dus sau de intors.
